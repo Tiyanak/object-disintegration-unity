@@ -53,7 +53,9 @@
   <ItemGroup>
      <Compile Include="Assets\lib\Western Props\Scripts\Destructible.cs" />
      <Compile Include="Assets\scripts\Destroy.cs" />
+     <Compile Include="Assets\scripts\Fracture.cs" />
      <Compile Include="Assets\scripts\MoveBall.cs" />
+     <Compile Include="Assets\scripts\TriangleExplosion.cs" />
      <None Include="Assets\Standard Assets\Environment\Water\Water4\Shaders\FXWater4Simple.shader" />
      <None Include="Assets\Standard Assets\Environment\Water (Basic)\Shaders\FXWaterBasic.shader" />
      <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />

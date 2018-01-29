@@ -4,3 +4,8 @@ ObjectDisintegration_data/
 ProjectSettings/
 ObjectDisintegration.exe
 .vscode/
+.vscode/
+.vs/
+Assets/lib
+Assets/Standard Assets/
+Assets/textures/
